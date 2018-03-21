@@ -1,1 +1,1 @@
-# Misc_QISKit_Things
+# Miscellaneous QISKit Things
