@@ -1,3 +1,3 @@
 # Miscellaneous QISKit Things
 
-* **Status.ipynb** - Checks the status of a backend. Currently set for *ibmqx5*. Change the specified backend to check something else.
+A place where I put things that I might want to share, but which don't fit in an existing repo (or warrant their own).
